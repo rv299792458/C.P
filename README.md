@@ -1,1 +1,1 @@
-# C.P
+#  A competitive programming repository
